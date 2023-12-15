@@ -20,9 +20,6 @@ class ListeApiTest extends WebTestCase
 
     }
 
-    
-
-
     public function testOne(): void
     {
         $client = $this->client; 
